@@ -1,0 +1,5 @@
+term;definition;source
+Architecture repository;Structured store of architecture descriptions and related metadata;Synthetic demo
+Application component;Modular deployable or logical application building block;Synthetic demo
+Capability;Ability an organization needs in order to achieve an outcome;Synthetic demo
+"Architecture; decision";"A synthetic term containing a delimiter; used to exercise the parser";Synthetic demo
